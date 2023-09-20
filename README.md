@@ -16,4 +16,4 @@ This project was developed to learn and practice various React hooks, including:
 - `useEffect()`: Used to handle side effects, such as updating the password.
 - `useRef()`: Used to create a reference to the password input field for easy copying.
 
-[Live Link]: https://password-generator-three-kappa.vercel.app/
+[Live Link](https://password-generator-three-kappa.vercel.app/)
